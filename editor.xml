@@ -3,4 +3,11 @@
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
+  <component name="EditorSettings">
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="IS_CAMEL_WORDS" value="true" />
+  </component>
+  <component name="JsonEditorOptions">
+    <option name="COLON_MOVE_OUTSIDE_QUOTES" value="true" />
+  </component>
 </application>
