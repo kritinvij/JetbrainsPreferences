@@ -10,6 +10,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="CloseContent">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582130563422" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ConfigureIcs">
           <value>
             <ActionSummary>
@@ -181,8 +189,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1582119362313" />
-              <option name="times" value="2" />
+              <option name="last" value="1582130563443" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -190,6 +198,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1582126491328" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582130559060" />
               <option name="times" value="2" />
             </ActionSummary>
           </value>
