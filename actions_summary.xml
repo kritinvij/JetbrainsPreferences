@@ -157,8 +157,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582119363725" />
-              <option name="times" value="2" />
+              <option name="last" value="1582147176907" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -254,6 +254,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1582126491328" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.vcs.ex.LocalLineStatusTracker$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582147176137" />
               <option name="times" value="2" />
             </ActionSummary>
           </value>
