@@ -10,6 +10,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="BlackCaiman.SyncFromWorkspace">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582132657077" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="CloseContent">
           <value>
             <ActionSummary>
@@ -53,8 +61,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582127543086" />
-              <option name="times" value="27" />
+              <option name="last" value="1582132766759" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
@@ -106,11 +114,43 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="FindInPath">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582132761917" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="GotoDeclaration">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582132692519" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="GotoFile">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582132750993" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="NextWindow">
           <value>
             <ActionSummary>
               <option name="last" value="1582126682277" />
               <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="OpenFile">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582132645997" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -143,6 +183,14 @@
             <ActionSummary>
               <option name="last" value="1582119162201" />
               <option name="times" value="29" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582132776319" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -189,8 +237,16 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1582130563443" />
-              <option name="times" value="12" />
+              <option name="last" value="1582132753707" />
+              <option name="times" value="13" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582132751792" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -215,6 +271,38 @@
             <ActionSummary>
               <option name="last" value="1582127455838" />
               <option name="times" value="16" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.ScrollingUtil$12">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582132774950" />
+              <option name="times" value="20" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.ScrollingUtil$13">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582132776004" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.ScrollingUtil$6">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582132727127" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.ScrollingUtil$7">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582132751561" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
