@@ -2,6 +2,14 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="$SelectAll">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582120039828" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ConfigureIcs">
           <value>
             <ActionSummary>
@@ -37,8 +45,16 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582119354211" />
-              <option name="times" value="3" />
+              <option name="last" value="1582120040385" />
+              <option name="times" value="10" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorLineStart">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582120037842" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -87,6 +103,22 @@
             <ActionSummary>
               <option name="last" value="1582119162201" />
               <option name="times" value="29" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.plugins.PluginManagerConfigurable$InstallFromDiskAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582120045095" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582120042888" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
