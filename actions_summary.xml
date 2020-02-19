@@ -5,8 +5,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582120039828" />
-              <option name="times" value="2" />
+              <option name="last" value="1582120421223" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -45,8 +45,24 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582120040385" />
-              <option name="times" value="10" />
+              <option name="last" value="1582120421593" />
+              <option name="times" value="20" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorCut">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582120122299" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorLineEnd">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582120407827" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -62,6 +78,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1582117496357" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorPaste">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582120123431" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -106,19 +130,27 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ide.plugins.PluginManagerConfigurable$ChangePluginStateAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582120197788" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.ide.plugins.PluginManagerConfigurable$InstallFromDiskAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582120045095" />
-              <option name="times" value="2" />
+              <option name="last" value="1582120199492" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
           <value>
             <ActionSummary>
-              <option name="last" value="1582120042888" />
-              <option name="times" value="4" />
+              <option name="last" value="1582120198557" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
