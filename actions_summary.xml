@@ -5,8 +5,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582127100338" />
-              <option name="times" value="11" />
+              <option name="last" value="1582127629598" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
@@ -45,8 +45,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582127104175" />
-              <option name="times" value="26" />
+              <option name="last" value="1582127543086" />
+              <option name="times" value="27" />
             </ActionSummary>
           </value>
         </entry>
@@ -61,16 +61,16 @@
         <entry key="EditorLineEnd">
           <value>
             <ActionSummary>
-              <option name="last" value="1582120407827" />
-              <option name="times" value="1" />
+              <option name="last" value="1582127544147" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorLineStart">
           <value>
             <ActionSummary>
-              <option name="last" value="1582120037842" />
-              <option name="times" value="1" />
+              <option name="last" value="1582127545099" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582127091201" />
-              <option name="times" value="2" />
+              <option name="last" value="1582127622274" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -197,16 +197,16 @@
         <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
           <value>
             <ActionSummary>
-              <option name="last" value="1582127090813" />
-              <option name="times" value="14" />
+              <option name="last" value="1582127455838" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.neueda.jetbrains.plugin.graphdb.jetbrains.ui.datasource.interactions.NewDataSourceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582126689518" />
-              <option name="times" value="3" />
+              <option name="last" value="1582127456690" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
