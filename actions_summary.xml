@@ -5,8 +5,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582120421223" />
-              <option name="times" value="6" />
+              <option name="last" value="1582126506442" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -21,8 +21,8 @@
         <entry key="DatabaseView.AddActionGroupPopup">
           <value>
             <ActionSummary>
-              <option name="last" value="1582119903628" />
-              <option name="times" value="1" />
+              <option name="last" value="1582126483122" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -45,8 +45,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582120421593" />
-              <option name="times" value="20" />
+              <option name="last" value="1582126430505" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
@@ -95,6 +95,14 @@
             <ActionSummary>
               <option name="last" value="1582119353351" />
               <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="NextWindow">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582126682277" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -165,8 +173,24 @@
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582118386336" />
-              <option name="times" value="1" />
+              <option name="last" value="1582126491328" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582126675025" />
+              <option name="times" value="10" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.neueda.jetbrains.plugin.graphdb.jetbrains.ui.datasource.interactions.NewDataSourceAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582126675829" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
