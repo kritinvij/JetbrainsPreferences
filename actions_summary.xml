@@ -5,8 +5,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582126506442" />
-              <option name="times" value="10" />
+              <option name="last" value="1582127100338" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -45,8 +45,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582126430505" />
-              <option name="times" value="21" />
+              <option name="last" value="1582127104175" />
+              <option name="times" value="26" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582120123431" />
-              <option name="times" value="1" />
+              <option name="last" value="1582127091201" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -138,6 +138,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ide.ReopenProjectAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582126686021" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.plugins.PluginManagerConfigurable$3">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582127110295" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.ide.plugins.PluginManagerConfigurable$ChangePluginStateAction">
           <value>
             <ActionSummary>
@@ -157,8 +173,8 @@
         <entry key="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
           <value>
             <ActionSummary>
-              <option name="last" value="1582120198557" />
-              <option name="times" value="10" />
+              <option name="last" value="1582127108697" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
@@ -181,16 +197,16 @@
         <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
           <value>
             <ActionSummary>
-              <option name="last" value="1582126675025" />
-              <option name="times" value="10" />
+              <option name="last" value="1582127090813" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.neueda.jetbrains.plugin.graphdb.jetbrains.ui.datasource.interactions.NewDataSourceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582126675829" />
-              <option name="times" value="2" />
+              <option name="last" value="1582126689518" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
