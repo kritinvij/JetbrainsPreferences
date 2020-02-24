@@ -53,8 +53,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582565720068" />
-              <option name="times" value="249" />
+              <option name="last" value="1582567806398" />
+              <option name="times" value="251" />
             </ActionSummary>
           </value>
         </entry>
@@ -421,8 +421,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582564619311" />
-              <option name="times" value="46" />
+              <option name="last" value="1582567793705" />
+              <option name="times" value="47" />
             </ActionSummary>
           </value>
         </entry>
@@ -725,8 +725,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582559487929" />
-              <option name="times" value="10" />
+              <option name="last" value="1582567803545" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
