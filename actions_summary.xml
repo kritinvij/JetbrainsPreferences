@@ -189,8 +189,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582565717827" />
-              <option name="times" value="182" />
+              <option name="last" value="1582569135650" />
+              <option name="times" value="184" />
             </ActionSummary>
           </value>
         </entry>
@@ -221,8 +221,8 @@
         <entry key="EditorDownWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1582564136058" />
-              <option name="times" value="441" />
+              <option name="last" value="1582569135201" />
+              <option name="times" value="443" />
             </ActionSummary>
           </value>
         </entry>
@@ -293,8 +293,8 @@
         <entry key="EditorLineStart">
           <value>
             <ActionSummary>
-              <option name="last" value="1582560609555" />
-              <option name="times" value="171" />
+              <option name="last" value="1582569134677" />
+              <option name="times" value="173" />
             </ActionSummary>
           </value>
         </entry>
@@ -325,8 +325,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582565723613" />
-              <option name="times" value="310" />
+              <option name="last" value="1582569038156" />
+              <option name="times" value="311" />
             </ActionSummary>
           </value>
         </entry>
@@ -421,8 +421,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582567793705" />
-              <option name="times" value="47" />
+              <option name="last" value="1582569037873" />
+              <option name="times" value="48" />
             </ActionSummary>
           </value>
         </entry>
@@ -725,8 +725,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582567803545" />
-              <option name="times" value="11" />
+              <option name="last" value="1582569038994" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
