@@ -1,57 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
-    <option name="HIGHLIGHT_SCOPE" value="true" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="5" />
-  </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-  </component>
-  <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="CFML" value="true" />
-        <entry key="CSS" value="true" />
-        <entry key="FTL" value="true" />
-        <entry key="Groovy" value="true" />
-        <entry key="HTML" value="true" />
-        <entry key="Haml" value="true" />
-        <entry key="JAVA" value="true" />
-        <entry key="JSON" value="true" />
-        <entry key="JSP" value="true" />
-        <entry key="JSPX" value="true" />
-        <entry key="JavaScript" value="true" />
-        <entry key="LESS" value="true" />
-        <entry key="SASS" value="true" />
-        <entry key="SCSS" value="true" />
-        <entry key="SQL" value="true" />
-        <entry key="Stylus" value="true" />
-        <entry key="TypeScript" value="true" />
-        <entry key="VTL" value="true" />
-        <entry key="XHTML" value="true" />
-        <entry key="XML" value="true" />
-        <entry key="kotlin" value="true" />
-        <entry key="yaml" value="true" />
-      </map>
-    </option>
-    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
-    <option name="IS_CARET_INSIDE_TABS" value="true" />
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="TOOLTIPS_DELAY_MS" value="400" />
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
-    <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
-    <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
-    <option name="IS_CAMEL_WORDS" value="true" />
-    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
-    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
-  </component>
-  <component name="JsonEditorOptions">
-    <option name="COLON_MOVE_OUTSIDE_QUOTES" value="true" />
-    <option name="COMMA_MOVE_OUTSIDE_QUOTES" value="true" />
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="showCssInlineColorPreview" value="true" />
+    <option name="REFORMAT_ON_PASTE" value="1" />
+    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
 </application>
