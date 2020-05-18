@@ -13,5 +13,6 @@
     <mask>*back*.py</mask>
     <mask>*.js</mask>
     <mask>config</mask>
+    <mask>*yml*</mask>
   </component>
 </application>
