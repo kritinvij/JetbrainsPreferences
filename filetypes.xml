@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="happy-npm-build" type="PLAIN_TEXT" />
       <mapping pattern="commonjs" type="PLAIN_TEXT" />
       <mapping ext="ics" type="PLAIN_TEXT" />
       <mapping ext="dat" type="SQL" />
