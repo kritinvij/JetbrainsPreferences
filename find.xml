@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.py</mask>
     <mask>*back*.py</mask>
@@ -16,5 +15,6 @@
     <mask>!*nodeids*</mask>
     <mask>*jsx</mask>
     <mask>!*.ts</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
