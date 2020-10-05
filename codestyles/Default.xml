@@ -12,6 +12,7 @@
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
+    <option name="USE_EXTERNAL_ANNOTATIONS" value="true" />
     <option name="SPACE_BEFORE_COLON_IN_FOREACH" value="false" />
   </JavaCodeStyleSettings>
   <PostgresCodeStyleSettings version="2">
