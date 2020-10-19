@@ -18,5 +18,6 @@
     <mask>*.xml</mask>
     <mask>!*yaml*</mask>
     <mask>!*yml*</mask>
+    <mask>!*DEV.STD*</mask>
   </component>
 </application>
