@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*bundle*,!*packa*,!*.json,!*md,!*build*,!*spec*,!*svg,!*.*rc,!common.js," />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.pyw</mask>
