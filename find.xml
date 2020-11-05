@@ -20,5 +20,6 @@
     <mask>!*yml*</mask>
     <mask>!*DEV.STD*</mask>
     <mask>!*bundle*,!*packa*,!*.json,!*md,!*build*,!*spec*,!*svg,!*.*rc,!common.js,</mask>
+    <mask>*spec.*</mask>
   </component>
 </application>
