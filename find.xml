@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!vendor*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.pyw</mask>
@@ -21,5 +22,6 @@
     <mask>!*DEV.STD*</mask>
     <mask>!*bundle*,!*packa*,!*.json,!*md,!*build*,!*spec*,!*svg,!*.*rc,!common.js,</mask>
     <mask>*spec.*</mask>
+    <mask>!vendor*</mask>
   </component>
 </application>
