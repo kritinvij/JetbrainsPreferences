@@ -23,6 +23,7 @@
     <mask>!*bundle*,!*packa*,!*.json,!*md,!*build*,!*spec*,!*svg,!*.*rc,!common.js,</mask>
     <mask>*spec.*</mask>
     <mask>!vendor*</mask>
+    <mask>!vendor*,!common*,*.spec.*</mask>
     <mask>!vendor*,!common*</mask>
   </component>
 </application>
