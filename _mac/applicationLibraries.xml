@@ -1,5 +1,56 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 3.6 (ads) interpreter library">
+      <CLASSES>
+        <root url="file:///Volumes/brazil-pkg-cache/packages/CPython36Runtime/CPython36Runtime-release.393379.0/RHEL5_64/DEV.STD.PTHREAD/build/python3.6/lib/python3.6" />
+        <root url="file:///Volumes/brazil-pkg-cache/packages/CPython36Runtime/CPython36Runtime-release.393379.0/RHEL5_64/DEV.STD.PTHREAD/build/python3.6/lib/python3.6/lib-dynload" />
+        <root url="file:///Volumes/brazil-pkg-cache/packages/CPython36Runtime/CPython36Runtime-release.393379.0/RHEL5_64/DEV.STD.PTHREAD/build/python3.6/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/BackOffException" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/BenderLibApolloLocal" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/BenderLibCore" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/BenderLibLocator" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/BenderLibSIM" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/MissingAuthenticationTokenException" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/RequestTimeoutException" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/TransmutationException" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/UnknownService" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/ValidationException" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/WENormaService" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/WEPopsSelfServiceLambda" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/python_stubs/-2051233349" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Volumes/brazil-pkg-cache/packages/CPython36Runtime/CPython36Runtime-release.393379.0/RHEL5_64/DEV.STD.PTHREAD/build/python3.6/lib/python3.6" />
+        <root url="file:///Volumes/brazil-pkg-cache/packages/CPython36Runtime/CPython36Runtime-release.393379.0/RHEL5_64/DEV.STD.PTHREAD/build/python3.6/lib/python3.6/lib-dynload" />
+        <root url="file:///Volumes/brazil-pkg-cache/packages/CPython36Runtime/CPython36Runtime-release.393379.0/RHEL5_64/DEV.STD.PTHREAD/build/python3.6/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/BackOffException" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/BenderLibApolloLocal" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/BenderLibCore" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/BenderLibLocator" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/BenderLibSIM" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/MissingAuthenticationTokenException" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/RequestTimeoutException" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/TransmutationException" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/UnknownService" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/ValidationException" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/WENormaService" />
+        <root url="file://$USER_HOME$/workplace/ads/env/AssociateDataStoreService-1.0/test-runtime/lib/python3.6/site-packages/WEPopsSelfServiceLambda" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/python_stubs/-2051233349" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.8 (cli-ads) interpreter library">
       <CLASSES>
         <root url="file:///usr/local/Cellar/python@3.8/3.8.6_1/Frameworks/Python.framework/Versions/3.8/lib/python3.8" />
@@ -28,11 +79,6 @@
       </SOURCES>
     </library>
     <library name="ss-api 3.8 interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="ss-api 3.8 interpreter library">
       <CLASSES>
         <root url="file:///Volumes/brazil-pkg-cache/packages/CPython38Runtime/CPython38Runtime-release.88690.0/RHEL5_64/DEV.STD.PTHREAD/build/python3.8/lib/python3.8" />
         <root url="file:///Volumes/brazil-pkg-cache/packages/CPython38Runtime/CPython38Runtime-release.88690.0/RHEL5_64/DEV.STD.PTHREAD/build/python3.8/lib/python3.8/lib-dynload" />
@@ -66,6 +112,11 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
+    </library>
+    <library name="ss-api 3.8 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
   </component>
 </application>
