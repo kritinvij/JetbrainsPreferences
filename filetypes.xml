@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <removed_mapping ext="cfg" type="Ini" />
-      <mapping ext="cfg" type="brazil-config" />
+      <mapping ext="cfg" type="Ini" />
+      <removed_mapping ext="cfg" type="brazil-config" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
