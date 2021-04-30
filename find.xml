@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*bundle*,!*node*" />
+    <option name="FILE_MASK" value="*test*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.pyw</mask>
@@ -30,5 +30,6 @@
     <mask>*css</mask>
     <mask>!*bundle*</mask>
     <mask>!*bundle*,!*node*</mask>
+    <mask>*test*</mask>
   </component>
 </application>
