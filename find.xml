@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*node*,!*html*,!*js*,!*css*" />
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="!*node*,!*html*,!*js,!*css*" />
     <mask>*.pyw</mask>
     <mask>*.py</mask>
     <mask>*back*.py</mask>
@@ -34,5 +33,6 @@
     <mask>!*node*,!*config*,!*yaml*,!*html*</mask>
     <mask>!*node*,!*config*,!*yaml*,!*html*,!*js*,!*css*</mask>
     <mask>!*node*,!*html*,!*js*,!*css*</mask>
+    <mask>!*node*,!*html*,!*js,!*css*</mask>
   </component>
 </application>
