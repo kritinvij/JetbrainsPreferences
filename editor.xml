@@ -6,4 +6,12 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="microservices.url.path.inlay.hints" />
+  </component>
+  <component name="JsonEditorOptions">
+    <option name="COMMA_ON_PASTE" value="false" />
+    <option name="AUTO_WHITESPACE_AFTER_COLON" value="false" />
+    <option name="ESCAPE_PASTED_TEXT" value="false" />
+  </component>
 </application>
