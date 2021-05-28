@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>!*yml*</mask>
-    <mask>!*DEV.STD*</mask>
-    <mask>!*bundle*,!*packa*,!*.json,!*md,!*build*,!*spec*,!*svg,!*.*rc,!common.js,</mask>
+    <option name="FILE_MASK" value="!*pay-*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,!*amzl_sau*,!*fc_sau*,!*fc_egy*,!*sc_egy*,!*amzl_egy*" />
     <mask>*spec.*</mask>
     <mask>!vendor*</mask>
     <mask>!vendor*,!common*,*.spec.*</mask>
@@ -33,5 +31,8 @@
     <mask>!*pay-*,!*aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*</mask>
     <mask>*cs_ita*</mask>
     <mask>*fc_ita*</mask>
+    <mask>!*pay-*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,**</mask>
+    <mask>!*pay-*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,!*amzl_sau*,!*fc_sau*</mask>
+    <mask>!*pay-*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,!*amzl_sau*,!*fc_sau*,!*fc_egy*,!*sc_egy*,!*amzl_egy*</mask>
   </component>
 </application>
