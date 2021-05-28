@@ -3,15 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*pay-*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,!*amzl_sau*,!*fc_sau*,!*fc_egy*,!*sc_egy*,!*amzl_egy*" />
-    <mask>*spec.*</mask>
-    <mask>!vendor*</mask>
-    <mask>!vendor*,!common*,*.spec.*</mask>
-    <mask>!vendor*,!common*</mask>
-    <mask>*css</mask>
-    <mask>!*bundle*</mask>
-    <mask>!*bundle*,!*node*</mask>
-    <mask>*test*</mask>
+    <option name="FILE_MASK" value="!*pay-punch-scheduling*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,!*amzl_sau*,!*fc_sau*,!*fc_egy*,!*sc_egy*,!*amzl_egy*,!*aws-ITA*,!*amzl_aus*,!*aws-can*,!*aws-hkg*,!*aws-aus*,!*aws-irl-dc*,!*aws-swe*,!*aws-bhr*,!*cs_mar*,!*amzl_deu*,!*aws-kor*,*aws-*" />
     <mask>!*node*,!*yml*,!*readme*,!*yaml*,!*config*</mask>
     <mask>!*node*,!*yml*,!*yaml*,!*config*</mask>
     <mask>!*node*,!*yml*,!*yaml*,!*html*</mask>
@@ -34,5 +26,13 @@
     <mask>!*pay-*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,**</mask>
     <mask>!*pay-*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,!*amzl_sau*,!*fc_sau*</mask>
     <mask>!*pay-*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,!*amzl_sau*,!*fc_sau*,!*fc_egy*,!*sc_egy*,!*amzl_egy*</mask>
+    <mask>!*pay-*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,!*amzl_sau*,!*fc_sau*,!*fc_egy*,!*sc_egy*,!*amzl_egy*,!*aws-ITA*,!*amzl_aus*,**</mask>
+    <mask>!*pay-*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,!*amzl_sau*,!*fc_sau*,!*fc_egy*,!*sc_egy*,!*amzl_egy*,!*aws-ITA*,!*amzl_aus*,!*aws-can*,!*aws-hkg*,!*aws-aus*,!*aws-irl-dc*,*aws-*,</mask>
+    <mask>!*pay-punch-scheduling*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,!*amzl_sau*,!*fc_sau*,!*fc_egy*,!*sc_egy*,!*amzl_egy*,!*aws-ITA*,!*amzl_aus*,!*aws-can*,!*aws-hkg*,!*aws-aus*,!*aws-irl-dc*,*aws-*,</mask>
+    <mask>!*pay-punch-scheduling*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,!*amzl_sau*,!*fc_sau*,!*fc_egy*,!*sc_egy*,!*amzl_egy*,!*aws-ITA*,!*amzl_aus*,!*aws-can*,!*aws-hkg*,!*aws-aus*,!*aws-irl-dc*,!*aws-swe*,*aws-*</mask>
+    <mask>!*pay-punch-scheduling*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,!*amzl_sau*,!*fc_sau*,!*fc_egy*,!*sc_egy*,!*amzl_egy*,!*aws-ITA*,!*amzl_aus*,!*aws-can*,!*aws-hkg*,!*aws-aus*,!*aws-irl-dc*,!*aws-swe*,!*aws-bhr*,</mask>
+    <mask>!*pay-punch-scheduling*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,!*amzl_sau*,!*fc_sau*,!*fc_egy*,!*sc_egy*,!*amzl_egy*,!*aws-ITA*,!*amzl_aus*,!*aws-can*,!*aws-hkg*,!*aws-aus*,!*aws-irl-dc*,!*aws-swe*,!*aws-bhr*,!*cs_mar*,*amzl_deu*</mask>
+    <mask>!*pay-punch-scheduling*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,!*amzl_sau*,!*fc_sau*,!*fc_egy*,!*sc_egy*,!*amzl_egy*,!*aws-ITA*,!*amzl_aus*,!*aws-can*,!*aws-hkg*,!*aws-aus*,!*aws-irl-dc*,!*aws-swe*,!*aws-bhr*,!*cs_mar*,!*amzl_deu*,*aws-kor*</mask>
+    <mask>!*pay-punch-scheduling*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,!*amzl_sau*,!*fc_sau*,!*fc_egy*,!*sc_egy*,!*amzl_egy*,!*aws-ITA*,!*amzl_aus*,!*aws-can*,!*aws-hkg*,!*aws-aus*,!*aws-irl-dc*,!*aws-swe*,!*aws-bhr*,!*cs_mar*,!*amzl_deu*,!*aws-kor*,*aws-*</mask>
   </component>
 </application>
