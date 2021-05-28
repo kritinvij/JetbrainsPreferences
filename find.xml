@@ -3,11 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*pay-punch*.json" />
-    <mask>*back*.py</mask>
+    <option name="FILE_MASK" value="*yml*" />
     <mask>*.js</mask>
     <mask>config</mask>
-    <mask>*yml*</mask>
     <mask>!*test*</mask>
     <mask>!*nodeids*</mask>
     <mask>*jsx</mask>
@@ -34,5 +32,7 @@
     <mask>!*node*,!*html*,!*js,!*css*</mask>
     <mask>*.json</mask>
     <mask>!*pay-punch*.json</mask>
+    <mask>yml*</mask>
+    <mask>*yml*</mask>
   </component>
 </application>
