@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*pay-punch-scheduling*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,!*amzl_sau*,!*fc_sau*,!*fc_egy*,!*sc_egy*,!*amzl_egy*,!*aws-ITA*,!*amzl_aus*,!*aws-can*,!*aws-hkg*,!*aws-aus*,!*aws-irl-dc*,!*aws-swe*,!*aws-bhr*,!*cs_mar*,!*amzl_deu*,!*aws-kor*,!*aws-usacs*,!*cs_jor*,!*cs_egy*,!*aws-sin*,!*aws-gbr*,!*fc_are*,!*amzl_are*,!*cs_are*,!*cs_sau*,!*aws-twn*,**" />
     <mask>yml*</mask>
     <mask>*yml*</mask>
     <mask>!*punch*</mask>
