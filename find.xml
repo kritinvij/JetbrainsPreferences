@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>!*punch*</mask>
     <mask>!*punch*,!*aus*</mask>
     <mask>!*punch*,!*aus*,!*aws-irl-CS*</mask>
     <mask>!*pay-*,!*aus*,!*aws-irl-CS*,</mask>
@@ -33,5 +32,6 @@
     <mask>!*pay-punch-scheduling*,!*fc_aus*,!*aws-irl-CS*,!*cs_ita*,!*ps_usa*,!*fc_ita*,!*pn_ita*,!*aws-FRA*,!*amzl_sau*,!*fc_sau*,!*fc_egy*,!*sc_egy*,!*amzl_egy*,!*aws-ITA*,!*amzl_aus*,!*aws-can*,!*aws-hkg*,!*aws-aus*,!*aws-irl-dc*,!*aws-swe*,!*aws-bhr*,!*cs_mar*,!*amzl_deu*,!*aws-kor*,!*aws-usacs*,!*cs_jor*,!*cs_egy*,!*aws-sin*,!*aws-gbr*,!*fc_are*,!*amzl_are*,!*cs_are*,!*cs_sau*,!*aws-twn*,**</mask>
     <mask>!*chn*</mask>
     <mask>*y*ml*</mask>
+    <mask>!*json*</mask>
   </component>
 </application>
